@@ -16,7 +16,7 @@
 ![Biyoinformatik](https://img.shields.io/badge/-Biyoinformatik-00C8B5?style=for-the-badge)
 
 ## İstatistiklerim
-![GitHub İstatistiklerim](https://github-readme-stats.vercel.app/api?username=kullanıcıadınız&show_icons=true&theme=radical)
+![GitHub İstatistiklerim](https://github-readme-stats.vercel.app/api?username=AtaUmutOZSOY&show_icons=true&theme=radical)
 
 ## En Son Blog Yazılarım
 <!-- BLOG-POST-LIST:START -->
