@@ -23,5 +23,6 @@ I'm a professional software developer with a passion for technology. I love lear
 
 ## 📫 Contact
 - GitHub: [@AtaUmutOZSOY](https://github.com/AtaUmutOZSOY)
-- LinkedIn: [Your Profile Link](Your LinkedIn profile link)
-- Email: `your-email@address.com`
+- LinkedIn: [Your Profile Link](https://www.linkedin.com/in/ata-umut-%C3%B6zsoy/)
+- ResearchGate:
+- Email: `ataumut7@gmail.com`
