@@ -13,8 +13,9 @@ I'm a professional software developer with a passion for technology. I love lear
 ## 🔭 Projects
 
 ## 📊 My GitHub Stats
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AtaUmutOZSOY&hide_border=true&card_width=498&currStreakLabel=EBEBEB&currStreakNum=EBEBEB&border=EBEBEB&background=E75F05&stroke=EBEBEB&ring=EBEBEB&fire=EBEBEB&sideNums=EBEBEB&sideLabels=EBEBEB&dates=EBEBEB&excludeDaysLabel=EBDDE2)](https://git.io/streak-stats)
 <p align="center">
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AtaUmutOZSOY&theme=radical&hide_border=true" height="150">
   <img src="https://github-readme-stats.vercel.app/api?username=AtaUmutOZSOY&show_icons=true&theme=radical&hide_border=true" height="150">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtaUmutOZSOY&theme=radical&hide_border=true&layout=compact" height="150">
