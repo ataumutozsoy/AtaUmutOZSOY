@@ -11,8 +11,6 @@ I'm a professional software developer with a passion for technology. I love lear
 - **Tools**: Git, Docker, Jenkins
 
 ## 🔭 Projects
-- [Project Name](project-link): A short description of my project.
-- [Project Name](project-link): A short description of my project.
 
 ## 📊 My GitHub Stats
 
