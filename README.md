@@ -16,7 +16,7 @@ I'm a professional software developer with a passion for technology. I love lear
 
 <p align="center">
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AtaUmutOZSOY&theme=vue&hide_border=true" height="150">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EnTeslimat&theme=vue&hide_border=true" height="150">
   <img src="https://github-readme-stats.vercel.app/api?username=AtaUmutOZSOY&show_icons=true&theme=vue&hide_border=true" height="150">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtaUmutOZSOY&theme=vue&hide_border=true&layout=compact" height="150">
 </p>
