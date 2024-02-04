@@ -1,5 +1,4 @@
 # Hello, I'm Ata Umut Özsoy 👋
-![Visitor Count](https://profile-counter.glitch.me/AtaUmutOZSOY/count.svg)
 ![Visitors](https://komarev.com/ghpvc/?username=AtaUmutOZSOY)
 
 ## 🙋‍♂️ About Me
