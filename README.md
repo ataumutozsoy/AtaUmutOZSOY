@@ -1,4 +1,5 @@
 # Hello, I'm Ata Umut Özsoy 👋
+![visitors](https://visitor-badge.glitch.me/badge?page_id=AtaUmutOZSOY.AtaUmutOZSOY)
 
 ## 🙋‍♂️ About Me
 I'm a professional software developer with a passion for technology. I love learning new technologies and solving challenging problems. I work with modern web technologies like Angular, React, C#, and ASP.NET Core.
@@ -23,6 +24,6 @@ I'm a professional software developer with a passion for technology. I love lear
 
 ## 📫 Contact
 - GitHub: [@AtaUmutOZSOY](https://github.com/AtaUmutOZSOY)
-- LinkedIn: [Your Profile Link](https://www.linkedin.com/in/ata-umut-%C3%B6zsoy/)
-- ResearchGate:
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/ata-umut-%C3%B6zsoy/)
+- ResearchGate: [ResearchGate](https://www.researchgate.net/profile/Ata-Ozsoy)
 - Email: `ataumut7@gmail.com`
