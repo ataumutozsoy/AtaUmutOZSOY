@@ -1,5 +1,6 @@
 # Hello, I'm Ata Umut Özsoy 👋
 ![Visitor Count](https://profile-counter.glitch.me/AtaUmutOZSOY/count.svg)
+![](https://komarev.com/ghpvc/?username=AtaUmutOZSOY)
 
 ## 🙋‍♂️ About Me
 I'm a professional software developer with a passion for technology. I love learning new technologies and solving challenging problems. I work with modern web technologies like Angular, React, C#, and ASP.NET Core.
