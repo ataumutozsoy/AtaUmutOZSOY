@@ -1,16 +1,56 @@
-# Hello, I'm Ata Umut Özsoy 👋
+
+
+
+# Welcome to Ata Umut ÖZSOY's GitHub!
 ![Visitors](https://komarev.com/ghpvc/?username=AtaUmutOZSOY)
+## 👨‍💻 About Me
+I'm Ata Umut ÖZSOY, a passionate Full Stack Developer and Bioinformatician based in Ankara, Turkey. I have a strong background in biology and software development, specializing in developing in silico solutions for biological research.
 
-## 🙋‍♂️ About Me
-I'm a professional software developer with a passion for technology. I love learning new technologies and solving challenging problems. I work with modern web technologies like Angular, React, C#, and ASP.NET Core.
+## 🔬 Professional Experience
 
-## 🛠 Technologies
-- **Frontend**: Angular, React
-- **Backend**: Node.js, Express, C#, ASP.NET Core
-- **Databases**: MongoDB, PostgreSQL
-- **Tools**: Git, Docker, Jenkins
+- **2022-2024**: Founder & Full Stack Developer at In Silico Software Development
+- **2020-2022**: Senior Bioinformatician at Qiagen (ATQ Biyoteknoloji), focusing on the TÜRKÖK project
+- **2019-2020**: Laboratory Worker in R&D, details confidential
 
-## 🔭 Projects
+## 🎓 Education
+
+- **Master's Degree in Biology** from Hacettepe University, Ankara (2020)
+- **Bachelor’s Degree in Biology** from Ankara University, Ankara (2019)
+
+## 💻 Programming Skills
+
+- **Languages**: C#, Python, R, Dart
+- **Frameworks**: ASP.NET Core, Django, Flutter, Angular, React, React-Native
+- **Databases**: MsSQL, MySQL
+- **Tools**: Visual Studio, VS Code, PyCharm, Android Studio
+- **Version Control**: GitHub, Subversion
+
+## 🧬 Bioinformatics Expertise
+
+- Experienced with CLC Genomic Workbench, OmicsBox, Miafora HLA, GenDx HLA
+- Proficient in NGS workflows like Whole Genome and Exome Sequencing
+
+## 🌱 Current Projects
+
+- [En Teslimat Platform](https://nteslimat.com) - Full stack development for an innovative delivery platform.
+- [Hacettepe University Plant Evolution Research Lab](https://example.com) - Web development for academic research.
+
+## 📚 Publications
+
+- Published on salt stress gene expression in *Phaseolus vulgaris* in Molecular Biology Reports.
+- Currently reviewing genetic diversity studies in wheat species for Genetic Resources and Crop Evolution.
+
+## 🤝 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/ata-umut-%C3%B6zsoy/)
+- [ORCID](https://orcid.org/0000-0002-6182-5124)
+
+- [LinkedIn](https://www.linkedin.com/in/ata-umut-%C3%B6zsoy/)
+- [ResearchGate](https://www.researchgate.net/profile/Ata-Ozsoy)
+- Email: `ataumut7@gmail.com`
+Feel free to explore my projects and reach out for collaborations!
+
+
 
 ## 📊 My GitHub Stats
 
@@ -22,31 +62,10 @@ I'm a professional software developer with a passion for technology. I love lear
 </p>
 
 ## 📫 Contact
-- GitHub: [@AtaUmutOZSOY](https://github.com/AtaUmutOZSOY)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/ata-umut-%C3%B6zsoy/)
-- ResearchGate: [ResearchGate](https://www.researchgate.net/profile/Ata-Ozsoy)
-- Email: `ataumut7@gmail.com`
 
 
-
-# 💫 About Me:
-👋 Hey there! I'm Ata Umut Özsoy, founder of a software development company based in Ankara, and a bioinformatics specialist. Currently, I'm working as a backend developer for a courier project called EnTeslimat.<br><br>🔬💻 Combining biology and computer science, I've developed a strong expertise in bioinformatics. I have experience with bioinformatic software such as CLC Genomic Workbench, OmicsBox, and Miafora HLA, as well as NGS-based workflows.<br><br>💻 On the software development side, I'm proficient in languages like C#, Python, and Perl, and I've worked with frameworks like ASP.Net Core and Django, along with databases like MsSQL and MySQL.<br><br>📚 I've contributed to various projects and scientific publications in both bioinformatics and software development fields. I also hold certifications in ISO standards and quality assurance practices.<br><br>🎓 Outside of work, I enjoy playing basketball (former university team player), playing musical instruments (guitar and native instruments), and learning foreign languages.<br><br>🌱 Check out my GitHub projects and feel free to request references if you're interested!
-
-
-## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/Ata Umut ÖZSOY) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ataumtozsoy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ata-umut-%C3%B6zsoy/) 
-
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AtaUmutOZSOY&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AtaUmutOZSOY&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AtaUmutOZSOY&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AtaUmutOZSOY&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AtaUmutOZSOY&icon=1&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
