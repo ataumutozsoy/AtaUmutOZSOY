@@ -30,10 +30,7 @@ I'm Ata Umut ÖZSOY, a passionate Full Stack Developer and Bioinformatician base
 - Experienced with CLC Genomic Workbench, OmicsBox, Miafora HLA, GenDx HLA
 - Proficient in NGS workflows like Whole Genome and Exome Sequencing
 
-##  Current Projects
 
-- [En Teslimat Platform](https://nteslimat.com) - Full stack development for an innovative delivery platform.
-- [Hacettepe University Plant Evolution Research Lab](https://example.com) - Web development for academic research.
 
 ##  Publications
 
