@@ -1,40 +1,31 @@
-# Ata Umut ÖZSOY
+# Ata Umut Özsoy
 
-![Visitors](https://komarev.com/ghpvc/?username=AtaUmutOZSOY&color=0e75b6&style=flat-square)
+**Software Engineer · Bioinformatics background**  
+Ankara, Türkiye
 
-**Bioinformatic Software Developer** — Ankara, Turkey
+I build software that turns complex problems into reliable, useful systems. My work spans full-stack development, bioinformatics, developer tooling, and scientific computing.
 
-Full Stack Developer and Bioinformatician combining molecular biology and software engineering to build scalable, reproducible systems for genomic research, NGS pipelines, and biological data analysis.
+<p align="center">
+  <img src="./assets/strata-core.svg" alt="Engineering strata — an illustrative timeline" width="100%" />
+</p>
 
----
+<sub>Geology-inspired visual timeline, 2021–2026. Layer thicknesses are illustrative and do not represent GitHub commit counts.</sub>
 
-## About
+### The log
 
-- Designing and implementing in silico solutions for bioinformatics workflows
-- Building tools for next-generation sequencing (NGS) data processing and analysis
-- Bridging academic research and production-grade software engineering
+From computational biology and NGS analysis to production software engineering, my work is about making complex systems more understandable, reproducible, and maintainable.
 
----
+### Areas of interest
 
-## Tech Stack
+`Software architecture` · `Full-stack engineering` · `Bioinformatics` · `Automation` · `Developer experience`
 
-**Languages:** Python, R, JavaScript, TypeScript, Bash  
-**Bioinformatics:** GATK, Snakemake, Nextflow, Biopython, samtools, BWA  
-**Web:** React, Node.js, REST APIs, PostgreSQL  
-**DevOps:** Docker, Linux, Git, CI/CD
+### Selected work
 
----
-
-## Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ataumutozsoy&show_icons=true&count_private=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ataumutozsoy&layout=compact&theme=default)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=ataumutozsoy&theme=default)
-
-![Profile Views](https://komarev.com/ghpvc/?username=AtaUmutOZSOY&color=0e75b6&style=flat-square)
+- **Bioinformatics platforms** — software for genomic analysis and interpretation workflows.
+- **Developer tools** — automation and infrastructure for dependable software delivery.
 
 ---
 
-## Contact
+[Website](https://ataumutozsoy.com.tr) · [LinkedIn](https://www.linkedin.com/in/ataumutozsoy/)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ataumutozsoy/)
+<sub>Visual adapted from [Strata Core](https://github.com/beydemirfurkan/awesome-github-profile/blob/main/templates/12-generative/strata-core/README.md) (CC0).</sub>
